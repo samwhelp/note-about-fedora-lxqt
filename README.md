@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Fedora Lxqt](https://github.com/samwhelp/fedora-lxqt-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Fedora Lxqt Config](https://github.com/samwhelp/fedora-lxqt-adjustment/tree/main/prototype/main/lxqt-config/Main) |
 
 
 
