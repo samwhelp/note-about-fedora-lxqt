@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Fedora Lxqt Adjustment](https://samwhelp.github.io/fedora-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-lxqt-adjustment) |
 | [Fedora Lxqt 探索筆記](https://samwhelp.github.io/note-about-fedora-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-fedora-lxqt) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 
 
 
@@ -44,7 +45,8 @@
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Lxqt 探索筆記](https://samwhelp.github.io/note-about-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-lxqt) |
-| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
+| [Debian Lxqt 探索筆記](https://samwhelp.github.io/note-about-debian-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-debian-lxqt) |
+| [Archlinux Lxqt 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxqt) |
 
 
 
